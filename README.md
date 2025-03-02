@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=your-github-Wanderlusst&label=Profile%20views&color=0e75b6&style=flat)
+
 # 🚀 Akash A S | Full-Stack Developer  
 
 💻 **React | Next.js | Tailwind CSS | AWS | DynamoDB**  
