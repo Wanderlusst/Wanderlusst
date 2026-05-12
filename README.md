@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 About Me  
-Hey, I'm Akash! I have **2.5+ years of experience** in full-stack development. I specialize in **React, Next.js, and AWS**, and I love building high-performance, scalable applications. Currently working on **MR Ghub** and an **E-commerce platform for custom apparel**.  
+Hey, I'm Akash! I have **3.5+ years of experience** in full-stack development. I specialize in **React, Next.js, and AWS**, and I love building high-performance, scalable applications. Currently working on **MR Ghub** and an **E-commerce platform for custom apparel**.  
 
 ---
 
